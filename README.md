@@ -28,4 +28,6 @@ Então exibe mensagem enviada
 Teste realizado na versão 11.2.2 - Xiomi Redmi note 11 
 Dados do usuário: alinedamasceno0810@gmail.com
 
+OBS:Incluir evidência em vídeo ou em imagem
+
 
