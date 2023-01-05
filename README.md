@@ -1,1 +1,1 @@
-# Descri-o-de-Bug
+# Descrição de Bug
